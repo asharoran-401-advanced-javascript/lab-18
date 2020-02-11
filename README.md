@@ -1,8 +1,8 @@
 # lab-18 - Socket.io
 ## Author: As'har oran
 ## Links and Resources
-* (pull Request) : []
-* Action : []
+* (pull Request) : [https://github.com/asharoran-401-advanced-javascript/lab-18/pull/1]
+* Action : [https://github.com/asharoran-401-advanced-javascript/lab-18/actions]
 How to initialize/run your server app
 run commands in three seperate terminals
 * node server.js
